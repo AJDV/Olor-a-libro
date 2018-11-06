@@ -16,5 +16,11 @@ namespace OlorALibroWindows
         {
             InitializeComponent();
         }
+
+        private void actividadesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Actividades a = new Actividades();
+            a.ShowDialog();
+        }
     }
 }

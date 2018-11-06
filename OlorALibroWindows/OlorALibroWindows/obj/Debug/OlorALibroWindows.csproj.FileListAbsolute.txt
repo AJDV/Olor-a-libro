@@ -1,2 +1,13 @@
 E:\Olor-a-libro\OlorALibroWindows\OlorALibroWindows\bin\Debug\OlorALibroWindows.exe.config
 D:\OlorLibro\OlorALibroWindows\OlorALibroWindows\bin\Debug\OlorALibroWindows.exe.config
+D:\OlorLibro\OlorALibroWindows\OlorALibroWindows\bin\Debug\OlorALibroWindows.exe
+D:\OlorLibro\OlorALibroWindows\OlorALibroWindows\bin\Debug\OlorALibroWindows.pdb
+D:\OlorLibro\OlorALibroWindows\OlorALibroWindows\bin\Debug\Newtonsoft.Json.dll
+D:\OlorLibro\OlorALibroWindows\OlorALibroWindows\bin\Debug\Newtonsoft.Json.xml
+D:\OlorLibro\OlorALibroWindows\OlorALibroWindows\obj\Debug\OlorALibroWindows.csprojResolveAssemblyReference.cache
+D:\OlorLibro\OlorALibroWindows\OlorALibroWindows\obj\Debug\OlorALibroWindows.Actividades.resources
+D:\OlorLibro\OlorALibroWindows\OlorALibroWindows\obj\Debug\OlorALibroWindows.Properties.Resources.resources
+D:\OlorLibro\OlorALibroWindows\OlorALibroWindows\obj\Debug\OlorALibroWindows.csproj.GenerateResource.Cache
+D:\OlorLibro\OlorALibroWindows\OlorALibroWindows\obj\Debug\OlorALibroWindows.exe
+D:\OlorLibro\OlorALibroWindows\OlorALibroWindows\obj\Debug\OlorALibroWindows.pdb
+D:\OlorLibro\OlorALibroWindows\OlorALibroWindows\obj\Debug\OlorALibroWindows.Form1.resources

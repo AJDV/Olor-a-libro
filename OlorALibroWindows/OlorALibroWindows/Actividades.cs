@@ -16,5 +16,10 @@ namespace OlorALibroWindows
         {
             InitializeComponent();
         }
+
+        private void buttonMostrarActividades_Click(object sender, EventArgs e)
+        {
+            this.Size = new Size(918, 488);
+        }
     }
 }
